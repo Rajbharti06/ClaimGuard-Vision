@@ -5,3 +5,4 @@ __pycache__/
 *.zip
 *.log
 .DS_Store
+.claude/
